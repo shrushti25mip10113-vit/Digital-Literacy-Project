@@ -19,7 +19,7 @@ Created profiles on GitHub, LinkedIn, and Kaggle to build a professional digital
 ### Task 3 – Platforms
 Completed a coding challenge and created a Google Form quiz.
 
-Google Form Link: [Paste Your Form Link Here]
+Google Form Link: https://forms.gle/gS8wKmxGmrADhdBv9
 
 ### Task 4 – Email Etiquette
 Drafted professional emails and created a social media checklist.
