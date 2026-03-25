@@ -14,7 +14,7 @@ This project is created as part of the Digital Literacy course. It covers awaren
 Created a digital literacy infographic using Canva covering digital tools, safety, and online presence.
 
 ### Task 2 – Portfolio
-Created profiles on GitHub, LinkedIn, and HackerRank to build a professional digital presence.
+Created profiles on GitHub, LinkedIn, and Kaggle to build a professional digital presence.
 
 ### Task 3 – Platforms
 Completed a coding challenge and created a Google Form quiz.
